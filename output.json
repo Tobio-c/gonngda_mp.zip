@@ -1,0 +1,1094 @@
+{
+  "mission_info": {
+    "algorithm": "ACO",
+    "total_profit": 1.0,
+    "target_count": 1,
+    "target_sequence": [
+      1
+    ],
+    "time_windows": {
+      "1": [
+        [
+          "2025-07-13T05:31:06",
+          "2025-07-13T05:33:02"
+        ],
+        [
+          "2025-07-13T12:19:04",
+          "2025-07-13T12:22:05"
+        ]
+      ]
+    }
+  },
+  "target_details": [
+    {
+      "id": 1,
+      "longitude": 2.2727153920694563,
+      "latitude": 0.6905534811855725,
+      "altitude": 0.0,
+      "importance": 0.9691000192196058,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7719555996871416
+    },
+    {
+      "id": 2,
+      "longitude": 2.2640480870040522,
+      "latitude": 0.5787913225341156,
+      "altitude": 0.0,
+      "importance": 0.6829552407868758,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7348942963664675
+    },
+    {
+      "id": 3,
+      "longitude": 2.229637175471732,
+      "latitude": 0.45860271425403004,
+      "altitude": 0.0,
+      "importance": 0.7074541275952907,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6851255721286867
+    },
+    {
+      "id": 4,
+      "longitude": 2.229968788029611,
+      "latitude": 0.4599919963386175,
+      "altitude": 0.0,
+      "importance": 0.9435685812261517,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6857003892644331
+    },
+    {
+      "id": 5,
+      "longitude": 2.4319731956554347,
+      "latitude": 0.6236602469443858,
+      "altitude": 0.0,
+      "importance": 0.7448897187103829,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7927592852621325
+    },
+    {
+      "id": 6,
+      "longitude": 2.4676808868219866,
+      "latitude": 0.7102861737086202,
+      "altitude": 0.0,
+      "importance": 0.7355087454086787,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.8279575655251333
+    },
+    {
+      "id": 7,
+      "longitude": 2.3077720754250137,
+      "latitude": 0.5959147478254319,
+      "altitude": 0.0,
+      "importance": 0.9322491808571078,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.751883097802641
+    },
+    {
+      "id": 8,
+      "longitude": 2.4338232446625487,
+      "latitude": 0.6188605915014014,
+      "altitude": 0.0,
+      "importance": 0.7747273416146725,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7917112343565913
+    },
+    {
+      "id": 9,
+      "longitude": 2.4374168775924048,
+      "latitude": 0.6168604441786159,
+      "altitude": 0.0,
+      "importance": 0.9985735036184562,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7919914717336632
+    },
+    {
+      "id": 10,
+      "longitude": 2.2315727456121937,
+      "latitude": 0.4605993709183115,
+      "altitude": 0.0,
+      "importance": 0.7446312485158069,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6863324286398836
+    },
+    {
+      "id": 11,
+      "longitude": 2.4665883107102378,
+      "latitude": 0.4325798551067946,
+      "altitude": 0.0,
+      "importance": 0.5885436903772263,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7351739847251361
+    },
+    {
+      "id": 12,
+      "longitude": 2.4236706644036974,
+      "latitude": 0.6164258571948693,
+      "altitude": 0.0,
+      "importance": 0.7881364105605037,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7883465841231191
+    },
+    {
+      "id": 13,
+      "longitude": 2.098444266257822,
+      "latitude": 0.26529004630313807,
+      "altitude": 0.0,
+      "importance": 0.7581116140570284,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.5802556872354879
+    },
+    {
+      "id": 14,
+      "longitude": 2.2325414033470503,
+      "latitude": 0.4591001330908484,
+      "altitude": 0.0,
+      "importance": 0.9848268440233108,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6860582681265579
+    },
+    {
+      "id": 15,
+      "longitude": 2.2326007445416183,
+      "latitude": 0.46179317612667564,
+      "altitude": 0.0,
+      "importance": 0.5502993188044445,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6870199251865826
+    },
+    {
+      "id": 16,
+      "longitude": 2.3627586735090955,
+      "latitude": 0.6194033888987716,
+      "altitude": 0.0,
+      "importance": 0.8531958507905435,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7736447920012981
+    },
+    {
+      "id": 17,
+      "longitude": 2.2347474995215713,
+      "latitude": 0.46300094396905567,
+      "altitude": 0.0,
+      "importance": 0.7546298686017499,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6880039581044457
+    },
+    {
+      "id": 18,
+      "longitude": 2.2313423621509307,
+      "latitude": 0.460451017931892,
+      "altitude": 0.0,
+      "importance": 0.8876913084559276,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6862201895444482
+    },
+    {
+      "id": 19,
+      "longitude": 2.229879776237759,
+      "latitude": 0.4593025912840797,
+      "altitude": 0.0,
+      "importance": 0.5085099855352407,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.685434913777123
+    },
+    {
+      "id": 20,
+      "longitude": 2.2245966645919726,
+      "latitude": 0.457974395723312,
+      "altitude": 0.0,
+      "importance": 0.5537224310467193,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6835880957499382
+    },
+    {
+      "id": 21,
+      "longitude": 2.2294678785342885,
+      "latitude": 0.46050861379720787,
+      "altitude": 0.0,
+      "importance": 0.7832172436352697,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6857510521045831
+    },
+    {
+      "id": 22,
+      "longitude": 2.3116903395957413,
+      "latitude": 0.600168115212542,
+      "altitude": 0.0,
+      "importance": 0.7411341048549391,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.754270951509452
+    },
+    {
+      "id": 23,
+      "longitude": 2.2282705826674207,
+      "latitude": 0.45736702114361805,
+      "altitude": 0.0,
+      "importance": 0.8455839764023081,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6843342658876599
+    },
+    {
+      "id": 24,
+      "longitude": 2.4329383627317873,
+      "latitude": 0.6194540034470795,
+      "altitude": 0.0,
+      "importance": 0.6961051004280154,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.791673903911284
+    },
+    {
+      "id": 25,
+      "longitude": 2.267779600944816,
+      "latitude": 0.49441512517570163,
+      "altitude": 0.0,
+      "importance": 0.5985268105614037,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7075484373525055
+    },
+    {
+      "id": 26,
+      "longitude": 2.2568486038395754,
+      "latitude": 0.49123513527856805,
+      "altitude": 0.0,
+      "importance": 0.8698863024536971,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7036036639460562
+    },
+    {
+      "id": 27,
+      "longitude": 2.2789235282188,
+      "latitude": 0.5311141633573864,
+      "altitude": 0.0,
+      "importance": 0.8275148748810806,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7229857837802395
+    },
+    {
+      "id": 28,
+      "longitude": 2.2495304382859636,
+      "latitude": 0.48540922623541094,
+      "altitude": 0.0,
+      "importance": 0.8735094773678332,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6996779733254956
+    },
+    {
+      "id": 29,
+      "longitude": 2.251930266007456,
+      "latitude": 0.48414909851547094,
+      "altitude": 0.0,
+      "importance": 0.8700619774463254,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6998665028503271
+    },
+    {
+      "id": 30,
+      "longitude": 2.286229476467648,
+      "latitude": 0.5363606230888814,
+      "altitude": 0.0,
+      "importance": 0.8630711316381674,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7266576257323278
+    },
+    {
+      "id": 31,
+      "longitude": 2.1667285279128485,
+      "latitude": 0.424741581436088,
+      "altitude": 0.0,
+      "importance": 0.6354208933668006,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6566378912009531
+    },
+    {
+      "id": 32,
+      "longitude": 2.162291900954279,
+      "latitude": 0.42351985095969197,
+      "altitude": 0.0,
+      "importance": 0.7619821152304753,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6550307091256422
+    },
+    {
+      "id": 33,
+      "longitude": 2.1608153524070914,
+      "latitude": 0.4261727514227234,
+      "altitude": 0.0,
+      "importance": 0.7987708241655003,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6555807763321188
+    },
+    {
+      "id": 34,
+      "longitude": 2.1610719158071348,
+      "latitude": 0.4270506520364765,
+      "altitude": 0.0,
+      "importance": 0.9978894148082804,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6559598406060941
+    },
+    {
+      "id": 35,
+      "longitude": 2.2601193508578126,
+      "latitude": 0.49546581338540224,
+      "altitude": 0.0,
+      "importance": 0.6437315600843728,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7059173675515165
+    },
+    {
+      "id": 36,
+      "longitude": -1.827359726838063,
+      "latitude": 0.6776031381357744,
+      "altitude": 0.0,
+      "importance": 0.5102847286139679,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": 0.9975384543693238
+    },
+    {
+      "id": 37,
+      "longitude": -1.6077815989739084,
+      "latitude": 0.6095684585637835,
+      "altitude": 0.0,
+      "importance": 0.7281551476400736,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": 0.9254036324159903
+    },
+    {
+      "id": 38,
+      "longitude": 2.2278499583176896,
+      "latitude": 0.45762707520216517,
+      "altitude": 0.0,
+      "importance": 0.5158517283818367,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6843159117026169
+    },
+    {
+      "id": 39,
+      "longitude": 2.168480838481851,
+      "latitude": 0.42573641910972476,
+      "altitude": 0.0,
+      "importance": 0.8156710811243213,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6574541342388438
+    },
+    {
+      "id": 40,
+      "longitude": 2.1842341803103515,
+      "latitude": 0.4333355826729081,
+      "altitude": 0.0,
+      "importance": 0.5471942641828604,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.664304264037667
+    },
+    {
+      "id": 41,
+      "longitude": -2.022171632616418,
+      "latitude": 0.7512665045454472,
+      "altitude": 0.0,
+      "importance": 0.9096211572039012,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.8559725904581016
+    },
+    {
+      "id": 42,
+      "longitude": 0.4751711248432122,
+      "latitude": 2.234051113150026,
+      "altitude": 0.0,
+      "importance": 0.5373866524594242,
+      "overhead_time": "338.79984833775296",
+      "roll_angle": -0.43042128524553097,
+      "pitch_angle": -1.7619419015043395e-05
+    },
+    {
+      "id": 43,
+      "longitude": 0.5329572310474925,
+      "latitude": 2.276570824387112,
+      "altitude": 0.0,
+      "importance": 0.9243779555364146,
+      "overhead_time": "380.5752233037462",
+      "roll_angle": -0.6731638597158642,
+      "pitch_angle": -1.6456277551416755e-05
+    },
+    {
+      "id": 44,
+      "longitude": 2.2831815503990254,
+      "latitude": 0.591084840066924,
+      "altitude": 0.0,
+      "importance": 0.9067737940768139,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.743899894358635
+    },
+    {
+      "id": 45,
+      "longitude": 2.356485378982787,
+      "latitude": 0.605338362175189,
+      "altitude": 0.0,
+      "importance": 0.6059283030182812,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7675508111233365
+    },
+    {
+      "id": 46,
+      "longitude": 2.2750366799746087,
+      "latitude": 0.5873032932960919,
+      "altitude": 0.0,
+      "importance": 0.609640849231427,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7405425637748639
+    },
+    {
+      "id": 47,
+      "longitude": 2.311688594266489,
+      "latitude": 0.600102374419206,
+      "altitude": 0.0,
+      "importance": 0.7576081622174649,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7542494103568914
+    },
+    {
+      "id": 48,
+      "longitude": 2.4670228976939845,
+      "latitude": 0.7519460193427127,
+      "altitude": 0.0,
+      "importance": 0.6840423329825246,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.8393649615083328
+    },
+    {
+      "id": 49,
+      "longitude": 2.3896466347706795,
+      "latitude": 0.6111561264648586,
+      "altitude": 0.0,
+      "importance": 0.8495897520751332,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.777953118661716
+    },
+    {
+      "id": 50,
+      "longitude": 2.4385158538265204,
+      "latitude": 0.6201736608171408,
+      "altitude": 0.0,
+      "importance": 0.5705956579414049,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7933240939353153
+    },
+    {
+      "id": 51,
+      "longitude": 2.3692844595823024,
+      "latitude": 0.6108652381980153,
+      "altitude": 0.0,
+      "importance": 0.5093051976429789,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7726195945276445
+    },
+    {
+      "id": 52,
+      "longitude": 2.3570671548183424,
+      "latitude": 0.5945754985709125,
+      "altitude": 0.0,
+      "importance": 0.9973851699883076,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7642399879433456
+    },
+    {
+      "id": 53,
+      "longitude": 2.336995868420407,
+      "latitude": 0.5945754985709125,
+      "altitude": 0.0,
+      "importance": 0.867985082934776,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7590483153884612
+    },
+    {
+      "id": 54,
+      "longitude": 2.4585871402244552,
+      "latitude": 0.6678793271546744,
+      "altitude": 0.0,
+      "importance": 0.5073079983827826,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.8131947435445325
+    },
+    {
+      "id": 55,
+      "longitude": 2.4388067408716334,
+      "latitude": 0.6227916546951323,
+      "altitude": 0.0,
+      "importance": 0.7896838072671497,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7942274550211074
+    },
+    {
+      "id": 56,
+      "longitude": 2.307918683082182,
+      "latitude": 0.5959234744716919,
+      "altitude": 0.0,
+      "importance": 0.7332949667350919,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7519241304234328
+    },
+    {
+      "id": 57,
+      "longitude": 2.4373523004100814,
+      "latitude": 0.6187192198319899,
+      "altitude": 0.0,
+      "importance": 0.6727277943256446,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7925659603340818
+    },
+    {
+      "id": 58,
+      "longitude": 0.49349882731840466,
+      "latitude": 2.25667756157288,
+      "altitude": 0.0,
+      "importance": 0.7575140248350465,
+      "overhead_time": "352.9932335589143",
+      "roll_angle": -0.5815864963336259,
+      "pitch_angle": -2.1941339364693958e-06
+    },
+    {
+      "id": 59,
+      "longitude": 0.5193192282724087,
+      "latitude": 2.262814139222892,
+      "altitude": 0.0,
+      "importance": 0.9346954726083962,
+      "overhead_time": "369.74752942134745",
+      "roll_angle": -0.602510301050913,
+      "pitch_angle": -7.769901854341155e-06
+    },
+    {
+      "id": 60,
+      "longitude": 0.4574228716796819,
+      "latitude": 2.222235234114024,
+      "altitude": 0.0,
+      "importance": 0.9543972753863451,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -1.1188591434366721
+    },
+    {
+      "id": 61,
+      "longitude": 0.4292131149796975,
+      "latitude": 2.1605151557757485,
+      "altitude": 0.0,
+      "importance": 0.9929420909129583,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -1.112849302423522
+    },
+    {
+      "id": 62,
+      "longitude": 0.4293876479048969,
+      "latitude": 2.1768147856601234,
+      "altitude": 0.0,
+      "importance": 0.8655515067102404,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -1.1139437371288816
+    },
+    {
+      "id": 63,
+      "longitude": 0.441383295853854,
+      "latitude": 2.2912874406399277,
+      "altitude": 0.0,
+      "importance": 0.6428400432534742,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -1.111777957628878
+    },
+    {
+      "id": 64,
+      "longitude": 2.2379222534309493,
+      "latitude": 0.48648783971314347,
+      "altitude": 0.0,
+      "importance": 0.7272839719493345,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.697018280825304
+    },
+    {
+      "id": 65,
+      "longitude": 2.2507451874453515,
+      "latitude": 0.48477043572918105,
+      "altitude": 0.0,
+      "importance": 0.8581240147312483,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.699773209122964
+    },
+    {
+      "id": 66,
+      "longitude": 2.21910760409445,
+      "latitude": 0.46029219296996055,
+      "altitude": 0.0,
+      "importance": 0.6635241515174795,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6829655753521574
+    },
+    {
+      "id": 67,
+      "longitude": 2.2728218571538275,
+      "latitude": 0.5315417690241251,
+      "altitude": 0.0,
+      "importance": 0.8541264107969688,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7215377648303929
+    },
+    {
+      "id": 68,
+      "longitude": 2.2673432686318176,
+      "latitude": 0.5233317402227438,
+      "altitude": 0.0,
+      "importance": 0.9459150219381081,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7173316721492383
+    },
+    {
+      "id": 69,
+      "longitude": 2.2664339520915284,
+      "latitude": 0.5201238250575781,
+      "altitude": 0.0,
+      "importance": 0.9136405860615939,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7160058867768231
+    },
+    {
+      "id": 70,
+      "longitude": 2.260731961425263,
+      "latitude": 0.5183575518545599,
+      "altitude": 0.0,
+      "importance": 0.5655951469708675,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7139158652144894
+    },
+    {
+      "id": 71,
+      "longitude": 2.261986853157447,
+      "latitude": 0.5142455561368612,
+      "altitude": 0.0,
+      "importance": 0.5699162315528133,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7128444999396173
+    },
+    {
+      "id": 72,
+      "longitude": 2.2571365831661545,
+      "latitude": 0.5100532752735709,
+      "altitude": 0.0,
+      "importance": 0.7647927175846967,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7101467028495292
+    },
+    {
+      "id": 73,
+      "longitude": 2.255084075965809,
+      "latitude": 0.5087914022243789,
+      "altitude": 0.0,
+      "importance": 0.8743920302790402,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7091789453999674
+    },
+    {
+      "id": 74,
+      "longitude": 2.2230188869481697,
+      "latitude": 0.45722564947420646,
+      "altitude": 0.0,
+      "importance": 0.5212787998418322,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6829124500737316
+    },
+    {
+      "id": 75,
+      "longitude": 2.224411659691261,
+      "latitude": 0.4575659886783454,
+      "altitude": 0.0,
+      "importance": 0.513618748271889,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.683396189301783
+    },
+    {
+      "id": 76,
+      "longitude": 2.2218198457520493,
+      "latitude": 0.4578050987858686,
+      "altitude": 0.0,
+      "importance": 0.5709643499122896,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6828025052193925
+    },
+    {
+      "id": 77,
+      "longitude": 2.2214864878649183,
+      "latitude": 0.4571697989381427,
+      "altitude": 0.0,
+      "importance": 0.6759642446825693,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6824920588758436
+    },
+    {
+      "id": 78,
+      "longitude": 2.1675627952953014,
+      "latitude": 0.4260278890948079,
+      "altitude": 0.0,
+      "importance": 0.7710282263890773,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6573149353527041
+    },
+    {
+      "id": 79,
+      "longitude": 2.1657947767630312,
+      "latitude": 0.42463686168096837,
+      "altitude": 0.0,
+      "importance": 0.5464197021747915,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6563538554535937
+    },
+    {
+      "id": 80,
+      "longitude": 2.1639115665001296,
+      "latitude": 0.425064467347707,
+      "altitude": 0.0,
+      "importance": 0.9795033754216185,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6560074909728882
+    },
+    {
+      "id": 81,
+      "longitude": 2.1614628695595814,
+      "latitude": 0.42494753028782334,
+      "altitude": 0.0,
+      "importance": 0.5689912346058349,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6553178522357779
+    },
+    {
+      "id": 82,
+      "longitude": 2.1643199735450964,
+      "latitude": 0.42304163074464557,
+      "altitude": 0.0,
+      "importance": 0.9787508028913705,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6553974290489006
+    },
+    {
+      "id": 83,
+      "longitude": 2.1629935233135806,
+      "latitude": 0.4226402050166868,
+      "altitude": 0.0,
+      "importance": 0.6746951401507788,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6549039976710997
+    },
+    {
+      "id": 84,
+      "longitude": 2.160295244289997,
+      "latitude": 0.4200239564679473,
+      "altitude": 0.0,
+      "importance": 0.6910378799162643,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6532603223368354
+    },
+    {
+      "id": 85,
+      "longitude": 2.145906749936556,
+      "latitude": 0.4267818713316694,
+      "altitude": 0.0,
+      "importance": 0.8984814261423726,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6518373425711125
+    },
+    {
+      "id": 86,
+      "longitude": 2.1872535999163016,
+      "latitude": 0.4322080999761198,
+      "altitude": 0.0,
+      "importance": 0.9254169480598591,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6646992249447587
+    },
+    {
+      "id": 87,
+      "longitude": 2.185883516453486,
+      "latitude": 0.43513501713171426,
+      "altitude": 0.0,
+      "importance": 0.5070904263348277,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6653758305088915
+    },
+    {
+      "id": 88,
+      "longitude": 2.184427911857323,
+      "latitude": 0.4331505777721967,
+      "altitude": 0.0,
+      "importance": 0.8708063949851916,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6642897265358758
+    },
+    {
+      "id": 89,
+      "longitude": 2.184967218596189,
+      "latitude": 0.433396669196728,
+      "altitude": 0.0,
+      "importance": 0.8273222193247383,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6645189143709144
+    },
+    {
+      "id": 90,
+      "longitude": 2.1859917268671096,
+      "latitude": 0.4314698257025262,
+      "altitude": 0.0,
+      "importance": 0.9378288075486101,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.664105420460783
+    },
+    {
+      "id": 91,
+      "longitude": 2.1762458083239733,
+      "latitude": 0.4320283310631643,
+      "altitude": 0.0,
+      "importance": 0.5704934880113057,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6617353157591477
+    },
+    {
+      "id": 92,
+      "longitude": 2.2917796234889902,
+      "latitude": 0.4528047304789048,
+      "altitude": 0.0,
+      "importance": 0.8081422105706889,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6991370321866412
+    },
+    {
+      "id": 93,
+      "longitude": 2.2904374652942066,
+      "latitude": 0.4512321888228579,
+      "altitude": 0.0,
+      "importance": 0.7713629945132663,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6982327490543498
+    },
+    {
+      "id": 94,
+      "longitude": 2.2896433404845493,
+      "latitude": 0.42704541604872054,
+      "altitude": 0.0,
+      "importance": 0.8454420622973046,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6893364042153306
+    },
+    {
+      "id": 95,
+      "longitude": 2.2580075024629,
+      "latitude": 0.49293857662851454,
+      "altitude": 0.0,
+      "importance": 0.9906368819000324,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7044944939079367
+    },
+    {
+      "id": 96,
+      "longitude": 2.268133902782971,
+      "latitude": 0.49429993344507006,
+      "altitude": 0.0,
+      "importance": 0.6257666301328482,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7076007374075316
+    },
+    {
+      "id": 97,
+      "longitude": 2.234188994160933,
+      "latitude": 0.4655508700062194,
+      "altitude": 0.0,
+      "importance": 0.6213140484007177,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6887522885260704
+    },
+    {
+      "id": 98,
+      "longitude": 2.2329777356600493,
+      "latitude": 0.45807387949067574,
+      "altitude": 0.0,
+      "importance": 0.6932324752320995,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6858110822188571
+    },
+    {
+      "id": 99,
+      "longitude": 2.2334350119240716,
+      "latitude": 0.47194401105627476,
+      "altitude": 0.0,
+      "importance": 0.663545020333663,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6907906559034046
+    },
+    {
+      "id": 100,
+      "longitude": 2.233028350208357,
+      "latitude": 0.4700224035498289,
+      "altitude": 0.0,
+      "importance": 0.6349165424249289,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6900134532514722
+    },
+    {
+      "id": 101,
+      "longitude": 2.230071762455479,
+      "latitude": 0.4664985837900524,
+      "altitude": 0.0,
+      "importance": 0.7531480565229298,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6880086326338586
+    },
+    {
+      "id": 102,
+      "longitude": 2.220538774081086,
+      "latitude": 0.4640411602032443,
+      "altitude": 0.0,
+      "importance": 0.9263770339342967,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6846538975595986
+    },
+    {
+      "id": 103,
+      "longitude": 2.234311167208573,
+      "latitude": 0.46607970476957367,
+      "altitude": 0.0,
+      "importance": 0.7421538394655874,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6889694266178661
+    },
+    {
+      "id": 104,
+      "longitude": 2.1310382900388167,
+      "latitude": 0.5192022912125251,
+      "altitude": 0.0,
+      "importance": 0.5253814061160631,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.6797207288122342
+    },
+    {
+      "id": 105,
+      "longitude": 2.285918807860793,
+      "latitude": 0.5339904659646731,
+      "altitude": 0.0,
+      "importance": 0.9131225121199055,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7257786209225208
+    },
+    {
+      "id": 106,
+      "longitude": 2.277890293301619,
+      "latitude": 0.529422939312204,
+      "altitude": 0.0,
+      "importance": 0.9456979977415978,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7221453337978982
+    },
+    {
+      "id": 107,
+      "longitude": 2.283749363600564,
+      "latitude": 0.5364932681120329,
+      "altitude": 0.0,
+      "importance": 0.7300823504962307,
+      "overhead_time": "0.0",
+      "roll_angle": 0.0,
+      "pitch_angle": -0.7260560359962136
+    }
+  ]
+}
